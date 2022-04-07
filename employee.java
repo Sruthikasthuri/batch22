@@ -3,6 +3,7 @@ public class employee {
 	private int employeeid;
 	private String employeename;
 	private int employeesalary;
+	private int empage;
 	//private static int counter;
 	
 	
